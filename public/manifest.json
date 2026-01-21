@@ -1,0 +1,16 @@
+{
+  "name": "Spiral Lab - AI Solutions",
+  "short_name": "Spiral Lab",
+  "description": "We architect AI systems for organizations building the future",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2B5F6F",
+  "theme_color": "#7FD944",
+  "icons": [
+    {
+      "src": "/insignia.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
